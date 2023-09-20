@@ -11,7 +11,7 @@ About Me
 ----------------------------------------------------------------------------------------------
 
 
-Field of Interest:
+Field of Interest
 ------------------
 
 My primary focus is   on **bioinformatics**, with a specialization in 
