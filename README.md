@@ -24,12 +24,14 @@ field,  including  protein structure  analysis,  folding prediction,
 protein databases, evolutionary protein bioinformatics, and more.
 
 Computational Neuroscience:
+
 I'm also deeply intrigued by computational neuroscience , especially
 neural networks and deep learning.  I love applying these techniques 
 to various  biological domains, seeking to  understand the brain and  
 its complexities.
 
 Systems Biology:
+
 Another area of expertise is **systems biology**, where I harness the
 power  of machine  learning  and   deep learning models  to  decipher 
 complex  biological systems. I'm  passionate about using  data-driven 
