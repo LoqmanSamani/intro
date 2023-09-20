@@ -10,8 +10,9 @@ computational methods to unravel the mysteries of life.
 About Me
 ----------------------------------------------------------------------------------------------
 
-Field of Interest: 
 
+Field of Interest:
+------------------
 
 My primary focus is   on **bioinformatics**, with a specialization in 
 **protein bioinformatics**. I delve into various aspects of this field, including protein
@@ -48,11 +49,3 @@ Feel free to connect with me here on GitHub, or you can also reach out to me via
 samaniloqman91@gmail.com. I'm always open to discussions, collaborations, and sharing knowledge
 in the exciting realms of bioinformatics, computational biology, and beyond.
 
-
-
-
-Let's explore the intricacies of life sciences together, one commit at a time! 🌱🧬🔬
-
----
-
-Feel free to replace "[your@email.com]" with your actual contact email address if you want to provide a way for others to contact you easily. You can also customize and expand on this README as your GitHub portfolio evolves and you work on more projects.
